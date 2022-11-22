@@ -7,5 +7,5 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 - Mídias
 - Tabelas
 
-Além de outros recursos falados nas aulas!
+Além de outros recursos falados nas aulas !
 
